@@ -2,9 +2,11 @@
 
 An app that will tell you your daily horoscope with an added bonus of galaxy images scatttered throughout.  
 
-## Deployed site 
+## Deployed app
 
-coming soon
+I used Heroku to store the app.
+
+The [App](My [Website](https://horoscope-api-test.herokuapp.com)
 
 ## Why I created this app
 
