@@ -6,7 +6,7 @@ An app that will tell you your daily horoscope with an added bonus of galaxy ima
 
 I used Heroku to store the app.
 
-The [App](My [Website](https://horoscope-api-test.herokuapp.com)
+The [App](https://horoscope-api-test.herokuapp.com)
 
 ## Why I created this app
 
