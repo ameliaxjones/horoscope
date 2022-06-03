@@ -71,7 +71,13 @@
         width: 70%;
     }
 
-
+    #title {
+      font-weight: 600;
+      font-size: 18px;
+      margin: 0;
+      padding-bottom: 3%;
+    }
+  
 
 
 /* Styling For Tablet  */
@@ -106,12 +112,19 @@
     right: 45%;
   }
 
-#galaxy img{
-    
-    margin-top: 14%;
-    margin-left: 33%;
-    width: 50%;
-}
+  #galaxy img{
+      
+      margin-top: 14%;
+      margin-left: 33%;
+      width: 50%;
+  }
+
+  #title {
+    font-weight: 600;
+    font-size: 20px;
+    padding-bottom: 10%;
+  }
+
 
 }
 
@@ -175,13 +188,17 @@
     transform: translate(-50%, -50%);
   }
 
-#galaxy img{
-    border-radius: 50%;
-    margin-top: 20.5%;
-    margin-left: 16.5%;
-    width: 70%;
-}
+  #galaxy img{
+      border-radius: 50%;
+      margin-top: 20.5%;
+      margin-left: 16.5%;
+      width: 70%;
+  }
 
+  #title {
+    font-weight: 600;
+    font-size: 30px;
+  }
 
 
 

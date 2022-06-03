@@ -12,8 +12,9 @@ class Horoscope extends Component {
         }
     }
 
+    
+
     componentDidMount () {
-       
         const { starsign } = this.props.params;
         const URL = 'https://aztro.sameerkumar.website?sign=' + starsign + '&day=today';
         fetch(URL, {
@@ -28,8 +29,8 @@ class Horoscope extends Component {
         <div className='hbg'>
             <div id='border'>
                 <div id='box'>
-                    Sign: <br></br><br></br>
-                    Current Date: {this.state.json.current_date} <br />
+                    <p id='title'>{this.props.params.starsign }</p> 
+                    {this.state.json.current_date} <br />
                     <br></br>
                     Lucky Number: {this.state.json.lucky_number} <br />
                     <br></br>
