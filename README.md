@@ -1,6 +1,6 @@
 # Daily Horoscope app
 
-An app that will tell you your daily horoscope with an added bonus of galaxy images scatttered throughout.  
+An app that will tell you your daily horoscope with an added bonus of galaxy images scatttered throughout.  It is reactive 
 
 ## Deployed app
 
@@ -10,7 +10,7 @@ The [App](https://horoscope-api-test.herokuapp.com)
 
 ## Why I created this app
 
-This app was created to play around with API's and learn more about React and JS and styling,
+This app was created to play around and learn more about  API's, React and JS. 
 
 ## Api's
 
