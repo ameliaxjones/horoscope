@@ -1,3 +1,4 @@
+ /* Styling For PC (yes i was naughty this time round xD)  */
  html {
     height: 100%;
 }
@@ -69,4 +70,31 @@ body{
     margin-top: 20.5%;
     margin-left: 16.5%;
     width: 70%;
+}
+
+
+
+
+/* Styling For Tablet  */
+
+@media only screen and (min-width:750px) {
+
+  #border{
+    background-image: url(./../public/tabletsizeborder.png);
+    background-repeat: no-repeat;
+    width: 325px;
+    height: 500px;
+  }
+  
+  #box {
+    font-size: small;
+    letter-spacing: .5px;
+    line-height: 1.3;
+    word-spacing: .5px;
+    top: 55%;
+    left: 55%;
+    width: 200px;
+    height: 400px;
+  }
+
 }
