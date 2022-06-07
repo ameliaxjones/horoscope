@@ -4,7 +4,6 @@ An app that will tell you your daily horoscope with an added bonus of galaxy ima
 
 ## Deployed app
 
-I used Heroku to store the app.
 
 The [App](https://horoscope-api-test.herokuapp.com)
 
